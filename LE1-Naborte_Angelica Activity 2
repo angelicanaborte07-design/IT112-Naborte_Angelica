@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    printf("****************************************************\n");
+    printf("*                                                  *\n");
+    printf("*                  HELLO, WORLD!                   *\n");
+    printf("*                                                  *\n");
+    printf("*         MY\tCODING\tJOURNEY\tHAS\tBEGUN      *\n");
+    printf("*                                                  *\n");
+    printf("*          BE HUMBLE  >  BE KIND  >  BE GRATEFUL   *\n");
+    printf("*                                                  *\n");
+    printf("****************************************************\n");
+
+    return 0;
+}
